@@ -21,8 +21,8 @@ Glyphs allows to extend its functionalities with Python scripts; and there are p
 2. Can you see the green button with the label: ‘Clone or download’? Click on it and copy the HTTPS URL of the git repository.
 3. Open the Terminal app and navigate to your scripts folder. Type `git clone URL`—where ‘URL’ is what you just have copied—and press Enter. For example: `git clone https://github.com/pedroarilla/glyphs-scripts.git`
 4. If you now go to Finder, you will see a new folder with some files inside. I usually rename this folder after the name of the coder. Now it’s time to create an alias and place it into the actual Glyphs folder. Left button of your mouse and click on ‘Make Alias’. Copy this folder (Cmd+C).
-5. Open Glyphs, click on the ‘Script’ menu and choose ‘Open Scripts Folder’ (Cmd+Shift+Y). A new Finder window will appear. Move in here the folder that you’ve copied on step 4 (Cmd+Alt+V). Delete the ‘alias’ from its name.
-6. Go back to Glyphs, click on the ‘Script’ menu, hold down the Option (Alt) key, and choose ‘Reload Scripts’ (Cmd+Alt+Shift+Y). Yeah! Now you can see and use the scripts from the ‘Script’ menu.
+5. Open Glyphs, click on the ‘Script’ menu and choose ‘Open Scripts Folder’ (Cmd+Shift+Y). A new Finder window will appear. Move in here the folder that you’ve copied on step 4 (Cmd+Opt+V). Delete the ‘alias’ from its name.
+6. Go back to Glyphs, click on the ‘Script’ menu, hold down the Option key, and choose ‘Reload Scripts’ (Cmd+Opt+Shift+Y). Yeah! Now you can see and use the scripts from the ‘Script’ menu.
 7. Repeat this process with other repositories. My favourite ones—sorry if I forgot someone:
   * [Daniel Gamage](https://github.com/danielgamage/Glyphs-Scripts)
   * [Huerta Tipográfica](https://github.com/huertatipografica/huertatipografica-scripts)
