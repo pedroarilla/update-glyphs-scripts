@@ -27,7 +27,7 @@ Glyphs allows extending its functionality with Python scripts, and there are ple
   * [Daniel Gamage](https://github.com/danielgamage/Glyphs-Scripts)
   * [Huerta Tipográfica](https://github.com/huertatipografica/huertatipografica-scripts)
   * [Just Another Foundry](https://github.com/justanotherfoundry/freemix-glyphsapp)
-  * [Mark2Mark](https://github.com/Mark2Mark/Glyphsapp-Scripts)
+  * [Mark2Mark](https://github.com/Mark2Mark/Glyphsapp-Scripts-Free)
   * [MekkaBlue](https://github.com/mekkablue/Glyphs-Scripts)
   * [Schriftgestalt](https://github.com/schriftgestalt/Glyphs-Scripts)
   * [Tosche](https://github.com/Tosche/Glyphs-Scripts)
